@@ -21,7 +21,6 @@ Website resmi **Pondok Pesantren Rafah** berbasis **Content Management System (C
 - ✅ Manajemen Program Pesantren (Tahfidz, Ekstrakurikuler, Kurikulum)
 - ✅ CRUD Dinamis via Livewire (satuan pendidikan, fasilitas, ekstra, dll)
 - ✅ Halaman Informasi: Visi-Misi, Berita, Agenda, Galeri
-- ✅ Dashboard Statistik Interaktif
 - ✅ Upload Gambar & File (Livewire File Upload)
 - ✅ UI Responsif dan Modern (Tailwind + AOS Animations)
 - ✅ Multi-layout CMS: Admin Panel, Front Website, dan Form Pendaftaran
